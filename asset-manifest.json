@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bpd-gang.github.io/static/css/main.f184371e.css",
+    "main.js": "/bpd-gang.github.io/static/js/main.4238bb7d.js",
+    "static/js/787.0e30bc64.chunk.js": "/bpd-gang.github.io/static/js/787.0e30bc64.chunk.js",
+    "static/media/bpd.webp": "/bpd-gang.github.io/static/media/bpd.f21c95496b09e85e21d9.webp",
+    "static/media/img2.webp": "/bpd-gang.github.io/static/media/img2.370dd46d82c3751fa5b4.webp",
+    "static/media/img4.webp": "/bpd-gang.github.io/static/media/img4.c61db0a19f719cdc15a2.webp",
+    "static/media/img3.webp": "/bpd-gang.github.io/static/media/img3.923c93ee5e876867080e.webp",
+    "static/media/img1.webp": "/bpd-gang.github.io/static/media/img1.0124d369081025291b57.webp",
+    "index.html": "/bpd-gang.github.io/index.html",
+    "main.f184371e.css.map": "/bpd-gang.github.io/static/css/main.f184371e.css.map",
+    "main.4238bb7d.js.map": "/bpd-gang.github.io/static/js/main.4238bb7d.js.map",
+    "787.0e30bc64.chunk.js.map": "/bpd-gang.github.io/static/js/787.0e30bc64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f184371e.css",
+    "static/js/main.4238bb7d.js"
+  ]
+}
